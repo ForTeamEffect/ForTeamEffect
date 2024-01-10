@@ -24,12 +24,13 @@
 
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working on AutoBots
-- 🌱 I’m currently learning Algo
-- 🤔 I’m looking for help with ...
+- 🔭 I’m currently working on AutoBots, websites
+- 🌱 I’m currently learning Algos
+- 🤔 I’m looking for help with ... when need i'm ask
 - 💬 Ask me about Python
 - 📫 How to reach me: [Telegram](link=https://t.me/Sudokuh)
 - ⚡ Fun fact: However, I remained a rather gentle person.
+
 -->
 <img src="./Scre.jpg" width="300"/>
 
