@@ -29,7 +29,8 @@ At the moment, my projects mainly contain Russian in HTML or bot support. To vie
 - 🤔 I’m looking for help with ... when need i'm ask
 - 💬 Ask me about Python
 - 📫 How to reach me: [Telegram](link=https://t.me/Sudokuh)
-- ⚡ Fun fact: However, I remained a rather gentle person.
+- ⚡ Fun fact: I served in the Russian army, and now I am in Morocco or Uruguay.
+ From an outside perspective, I find this partly funny. However, I remained a person )).
 
 -->
 <img src="./Scre.jpg" width="200"/>
