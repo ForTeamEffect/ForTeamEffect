@@ -18,8 +18,8 @@
 <img src="https://img.shields.io/badge/Telethon-7FFD4?style=for-the-badge&logo=Telegram&logoColor=black"/>
 <img src="https://img.shields.io/badge/Pyrogram-7FFD4?style=for-the-badge&logo=Telegram&logoColor=black"/>
 <img src="https://img.shields.io/badge/aiohttp-3670A0?style=for-the-badge&logo=aiohttp&logoColor=black"/>
-<img src="https://img.shields.io/badge/openai-%23DD0031?style=for-the-badge&logo=openai&logoColor=black"/>
-<iframe src="https://gifer.com/embed/81" width=480 height=362.880 frameBorder="0" allowFullScreen></iframe><p>
+<img src="https://img.shields.io/badge/openai-%23DD0031?style=for-the-badge&logo=openai&logoColor=black"/>[
+<iframe src="https://gifer.com/embed/81" width=480 height=362.880 frameBorder="0" allowFullScreen></iframe><p>](https://i.gifer.com/81.gif)
 
 Here are some ideas to get you started:
 
