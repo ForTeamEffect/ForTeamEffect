@@ -18,6 +18,7 @@
 <img src="https://img.shields.io/badge/Telegraph-7FFD4?style=for-the-badge&logo=Telegraph&logoColor=black"/>
 <img src="https://img.shields.io/badge/Telethon-7FFD4?style=for-the-badge&logo=Telegram&logoColor=black"/>
 <img src="https://img.shields.io/badge/Pyrogram-7FFD4?style=for-the-badge&logo=Telegram&logoColor=black"/>
+<img src="https://img.shields.io/badge/aiogram-7FFD4?style=for-the-badge&logo=aiogram&logoColor=black"/>
 <img src="https://img.shields.io/badge/aiohttp-3670A0?style=for-the-badge&logo=aiohttp&logoColor=black"/>
 <img src="https://img.shields.io/badge/openai-%23DD0031?style=for-the-badge&logo=openai&logoColor=black"/>
 
