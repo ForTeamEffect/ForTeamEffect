@@ -19,7 +19,7 @@
 <img src="https://img.shields.io/badge/Pyrogram-7FFD4?style=for-the-badge&logo=Telegram&logoColor=black"/>
 <img src="https://img.shields.io/badge/aiohttp-3670A0?style=for-the-badge&logo=aiohttp&logoColor=black"/>
 <img src="https://img.shields.io/badge/openai-%23DD0031?style=for-the-badge&logo=openai&logoColor=black"/>
-<iframe src="https://gifer.com/embed/81"/>
+<iframe src="https://gifer.com/embed/81/"/>
 
 Here are some ideas to get you started:
 
