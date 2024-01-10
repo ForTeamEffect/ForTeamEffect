@@ -1,4 +1,4 @@
-### FROM FROJECT TO PRJECT
+### FROM PROJECT TO PROJECT
 <img src="./6Ky2.gif" width="1000"/>
 
 ### Languages and Tools:
