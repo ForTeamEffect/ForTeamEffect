@@ -14,7 +14,11 @@
 ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
 <img src="https://img.shields.io/badge/Telegram-7FFD4?style=for-the-badge&logo=Telegram&logoColor=black"/>
-**ForTeamEffect/ForTeamEffect** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<img src="https://img.shields.io/badge/Telegraph-7FFD4?style=for-the-badge&logo=Telegraph&logoColor=black"/>
+<img src="https://img.shields.io/badge/Telethon-7FFD4?style=for-the-badge&logo=Telegram&logoColor=black"/>
+<img src="https://img.shields.io/badge/Pyrogram-7FFD4?style=for-the-badge&logo=Telegram&logoColor=black"/>
+<img src="https://img.shields.io/badge/aiohttp-3670A0?style=for-the-badge&logo=aiohttp&logoColor=black"/>
+<img src="https://img.shields.io/badge/openai-%23DD0031?style=for-the-badge&logo=openai&logoColor=black"/>
 
 Here are some ideas to get you started:
 
