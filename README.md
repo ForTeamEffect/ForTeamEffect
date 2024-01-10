@@ -1,5 +1,5 @@
 ### FROM PROJECT TO PROJECT
-<img src="./6Ky2.gif" width="1000"/>
+<img src="./6Ky2.gif" width="800"/>
 
 ### Languages and Tools:
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
@@ -22,8 +22,7 @@
 <img src="https://img.shields.io/badge/aiohttp-3670A0?style=for-the-badge&logo=aiohttp&logoColor=black"/>
 <img src="https://img.shields.io/badge/openai-%23DD0031?style=for-the-badge&logo=openai&logoColor=black"/>
 
-
-Here are some ideas to get you started:
+At the moment, my projects mainly contain Russian in HTML or bot support. To view options in your language, after starting the server, use your browser's auto-translation. My next projects will only contain English. I am also completely ready to work in English for your projects.
 
 - 🔭 I’m currently working on AutoBots, websites
 - 🌱 I’m currently learning Algos
@@ -33,5 +32,5 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: However, I remained a rather gentle person.
 
 -->
-<img src="./Scre.jpg" width="300"/>
+<img src="./Scre.jpg" width="200"/>
 
