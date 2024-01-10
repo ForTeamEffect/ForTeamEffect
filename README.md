@@ -13,7 +13,7 @@
 ![Celery](https://img.shields.io/badge/celery-%2337814A.svg?&style=for-the-badge&logo=celery&logoColor=white)
 ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
-<img src="https://img.shields.io/badge/telegram-7FFD4?style=for-the-badge&logo=TG&logoColor=black"/>
+<img src="https://img.shields.io/badge/Telegram-7FFD4?style=for-the-badge&logo=Telegram&logoColor=black"/>
 **ForTeamEffect/ForTeamEffect** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
