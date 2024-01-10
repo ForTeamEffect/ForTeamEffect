@@ -29,5 +29,6 @@ Here are some ideas to get you started:
 - 🤔 I’m looking for help with ...
 - 💬 Ask me about Python
 - 📫 How to reach me: [...](https://t.me/Sudokuh)
-- ⚡ Fun fact: ...
+- ⚡ Fun fact: However, I remained a rather gentle person.
+    <img src="./Scre.jpg"/>
 -->
