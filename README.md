@@ -30,5 +30,5 @@ Here are some ideas to get you started:
 - 💬 Ask me about Python
 - 📫 How to reach me: [...](https://t.me/Sudokuh)
 - ⚡ Fun fact: However, I remained a rather gentle person.
-    <img src="./Scre.jpg"/>
+    <img src="./Scre.jpg" width="128"/>
 -->
