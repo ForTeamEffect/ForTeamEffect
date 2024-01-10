@@ -19,7 +19,7 @@
 <img src="https://img.shields.io/badge/Pyrogram-7FFD4?style=for-the-badge&logo=Telegram&logoColor=black"/>
 <img src="https://img.shields.io/badge/aiohttp-3670A0?style=for-the-badge&logo=aiohttp&logoColor=black"/>
 <img src="https://img.shields.io/badge/openai-%23DD0031?style=for-the-badge&logo=openai&logoColor=black"/>
-<gif src="https://i.gifer.com/81.gif"/>
+<div style="padding-top:75.600%;position:relative;"><iframe src="https://gifer.com/embed/81" width="100%" height="100%" style='position:absolute;top:0;left:0;' frameBorder="0" allowFullScreen></iframe></div><p><a href="https://gifer.com">via GIFER</a></p>
 
 Here are some ideas to get you started:
 
