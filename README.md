@@ -28,7 +28,7 @@ Here are some ideas to get you started:
 - 🌱 I’m currently learning Algo
 - 🤔 I’m looking for help with ...
 - 💬 Ask me about Python
-- 📫 How to reach me: [...](https://t.me/Sudokuh)
+- 📫 How to reach me: [Telegram](link=https://t.me/Sudokuh)
 - ⚡ Fun fact: However, I remained a rather gentle person.
-    <img src="./Scre.jpg" width="128"/>
+    <img src="./Scre.jpg" width="300"/>
 -->
