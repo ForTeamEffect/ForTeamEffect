@@ -25,9 +25,9 @@ At the moment, my projects mainly contain Russian in HTML or bot support. To vie
 
 - 🔭 I’m currently working on AutoBots, websites
 - 🌱 I’m currently learning Algos
-- <logo scr="&#129707;"/> I’m looking for help with ... when need i'm ask
+- 🪫 I’m looking for help with ... when need i'm ask
 - 💬 Ask me about Python
-- 📫 How to reach me: [Telegram] <link src="https://t.me/Sudokuh"/>
+- 📫 How to reach me: [Telegram] https://t.me/Sudokuh/
 - ⚡ Fun fact: I served in the Russian army, and now I am in Morocco or Uruguay.
  From an outside perspective, I find this partly funny. However, I remained a person )).
 
