@@ -27,7 +27,8 @@ At the moment, my projects mainly contain Russian in HTML or bot support. To vie
 - 📝 I’m currently learning Algos
 - 🗿 I’m looking for help with ... when need i'm ask
 - 💬 Ask me about Python
-- 📩 How to reach me: <img scr=https://icons8.ru/icon/9R1sV3QvY18K/телеграм>[Telegram] https://t.me/Sudokuh/
+- 📩 How to reach me:
+<img scr=https://icons8.ru/icon/9R1sV3QvY18K/телеграм/>[Telegram] https://t.me/Sudokuh/
 
 - 💎 Fun fact: I served in the Russian army, and now I am in Morocco or Uruguay.
  From an outside perspective, I find this partly funny. However, I remained a person )).
