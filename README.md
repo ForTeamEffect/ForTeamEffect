@@ -30,7 +30,7 @@ At the moment, my projects mainly contain Russian in HTML or bot support. To vie
 - 📫 How to reach me: [Telegram] <link src="https://t.me/Sudokuh"/>
 - ⚡ Fun fact: I served in the Russian army, and now I am in Morocco or Uruguay.
  From an outside perspective, I find this partly funny. However, I remained a person )).
-
+Don't forget to check out my projects under the gif.
 ### FROM PROJECT TO PROJECT
-<img src="./6Ky2.gif" width="800"/>
-
+<img src="./6Ky2.gif" width="800"/>↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓
+↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓
