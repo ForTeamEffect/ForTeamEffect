@@ -23,12 +23,12 @@
 ### about №2
 At the moment, my projects mainly contain Russian in HTML or bot support. To view options in your language, after starting the server, use your browser's auto-translation. My next projects will only contain English. I am also completely ready to work in English for your projects.
 
-- 🔭 I’m currently working on AutoBots, websites
-- 🌱 I’m currently learning Algos
-- 🪫 I’m looking for help with ... when need i'm ask
-- 💬 Ask me about Python
-- 📫 How to reach me: [Telegram] https://t.me/Sudokuh/
-- ⚡ Fun fact: I served in the Russian army, and now I am in Morocco or Uruguay.
+- 🔋 I’m currently working on AutoBots, websites
+- 📝 I’m currently learning Algos
+- 🗿 I’m looking for help with ... when need i'm ask
+- 💬🗫 Ask me about Python
+- 📩 How to reach me: [Telegram] https://t.me/Sudokuh/
+- 💎 Fun fact: I served in the Russian army, and now I am in Morocco or Uruguay.
  From an outside perspective, I find this partly funny. However, I remained a person )).
 
 Don't forget to check out my projects under the gif.↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓
