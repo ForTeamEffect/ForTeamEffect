@@ -22,7 +22,7 @@
 <img src="https://img.shields.io/badge/openai-%23DD0031?style=for-the-badge&logo=openai&logoColor=black"/>
 ### about №2
 At the moment, my projects mainly contain Russian in HTML or bot support. To view options in your language, after starting the server, use your browser's auto-translation. My next projects will only contain English. I am also completely ready to work in English for your projects. 
-
+- Interpreter - PyCharm, VSC.
 - 🔋 I’m currently working on AutoBots, websites
 - 📝 I’m currently learning Algos
 - 🗿 I’m looking for help with ... when need i'm ask
