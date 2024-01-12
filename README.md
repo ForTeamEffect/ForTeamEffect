@@ -21,15 +21,15 @@
 <img src="https://img.shields.io/badge/aiohttp-3670A0?style=for-the-badge&logo=aiohttp&logoColor=black"/>
 <img src="https://img.shields.io/badge/openai-%23DD0031?style=for-the-badge&logo=openai&logoColor=black"/>
 ### about №2
-At the moment, my projects mainly contain Russian in HTML or bot support. To view options in your language, after starting the server, use your browser's auto-translation. My next projects will only contain English. I am also completely ready to work in English for your projects.
-
+At the moment, my projects mainly contain Russian in HTML or bot support. To view options in your language, after starting the server, use your browser's auto-translation. My next projects will only contain English. I am also completely ready to work in English for your projects. 
+- Interpreter - Python.
 - 🔋 I’m currently working on AutoBots, websites
 - 📝 I’m currently learning Algos
 - 🗿 I’m looking for help with ... when need i'm ask
 - 💬 Ask me about Python
 - 📩 How to reach me:
 [Telegram] https://t.me/Sudokuh/
-      [what's app]https://wa.me/qr/X3NHGLHW6KP6K1
+[what's app]https://wa.me/qr/X3NHGLHW6KP6K1
 - 💎 Fun fact: I served in the Russian army, and now I am in Morocco or Uruguay.
  From an outside perspective, I find this partly funny. However, I remained a person )).
 
