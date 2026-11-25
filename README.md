@@ -17,9 +17,14 @@ Tech Lead, Full-Stack, Project Manager, QA Lead and DevOps roles.
 - ⚙️ **CI/CD from scratch** — Jenkins + Bitbucket, tests on every PR, merge blocked below 90% coverage
 - 👥 Led a cross-functional team (backend, QA, mobile), hired most of it, ran sprints and investor reporting
 
-**Side projects:** Kid-Safer (ESP32 wearable + FastAPI + AI speech classification),
-Neuro-commenting AI bot for Telegram growth, GPT + DALL·E bot, Telegram Mini App marketplace,
-USDT TRC-20 wallet bot.
+**Side projects**
+
+- 📟 **Kid-Safer** — ESP32 wearable + FastAPI + AI speech classification, alerts parents in Telegram
+- 📱 **Mini apps for Telegram and MAX** — e.g. a marketplace (React + FastAPI + PostgreSQL)
+- 🔎 **Search assistants** — bots and agents that collect, filter and act on search results
+- 🛡️ **Security checks** — tools for auditing systems and finding vulnerabilities
+- ⚡ **Automation & optimization** across different domains — reporting, data processing, routine workflows
+- 🤖 Neuro-commenting AI bot for Telegram growth, GPT + DALL·E bot, USDT TRC-20 wallet bot
 
 ### Languages and Tools
 
