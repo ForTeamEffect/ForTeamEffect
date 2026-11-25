@@ -24,7 +24,7 @@ Tech Lead, Full-Stack, Project Manager, QA Lead and DevOps roles.
 - **Search assistants** — bots and agents that collect, filter and act on search results
 - **Security checks** — tools for auditing systems and finding vulnerabilities
 - **Automation & optimization** across different domains — reporting, data processing, routine workflows
-- Neuro-commenting AI bot for Telegram growth, GPT + DALL·E bot, USDT TRC-20 wallet bot
+- Neuro-commenting AI client bot for Telegram channel growth, GPT + DALL·E bot, USDT TRC-20 wallet bot
 
 ### Languages and Tools
 
