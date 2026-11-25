@@ -8,23 +8,23 @@ Tech Lead, Full-Stack, Project Manager, QA Lead and DevOps roles.
 
 ### What I've built
 
-- 💳 **CardEx** — virtual & physical Visa/Mastercard cards funded with crypto, built from scratch:
+- **CardEx** — virtual & physical Visa/Mastercard cards funded with crypto, built from scratch:
   issuing, blocking, top-ups, PIN, reversals, mobile API
-- 🏦 **Banregio integration (MXN / SPEI)** — owner of the bank integration for 2+ years, rebuilt it on API v2
-- 💰 **Zoho Savings** — interest-bearing savings accounts on crypto assets, a new revenue stream
-- 🛡️ **AML / KYT compliance (Elliptic)** — automated screening of every crypto transaction
-- 🤖 **AI QA agent (Claude Code)** — generates and fixes Playwright E2E tests after each deploy
-- ⚙️ **CI/CD from scratch** — Jenkins + Bitbucket, tests on every PR, merge blocked below 90% coverage
-- 👥 Led a cross-functional team (backend, QA, mobile), hired most of it, ran sprints and investor reporting
+- **Banregio integration (MXN / SPEI)** — owner of the bank integration for 2+ years, rebuilt it on API v2
+- **Zoho Savings** — interest-bearing savings accounts on crypto assets, a new revenue stream
+- **AML / KYT compliance (Elliptic)** — automated screening of every crypto transaction
+- **AI QA agent (Claude Code)** — generates and fixes Playwright E2E tests after each deploy
+- **CI/CD from scratch** — Jenkins + Bitbucket, tests on every PR, merge blocked below 90% coverage
+- Led a cross-functional team (backend, QA, mobile), hired most of it, ran sprints and investor reporting
 
 **Side projects**
 
-- 📟 **Kid-Safer** — ESP32 wearable + FastAPI + AI speech classification, alerts parents in Telegram
-- 📱 **Mini apps for Telegram and MAX** — e.g. a marketplace (React + FastAPI + PostgreSQL)
-- 🔎 **Search assistants** — bots and agents that collect, filter and act on search results
-- 🛡️ **Security checks** — tools for auditing systems and finding vulnerabilities
-- ⚡ **Automation & optimization** across different domains — reporting, data processing, routine workflows
-- 🤖 Neuro-commenting AI bot for Telegram growth, GPT + DALL·E bot, USDT TRC-20 wallet bot
+- **Wearable IoT device** — ESP32 firmware (C), FastAPI backend, AI audio classification and real-time notifications
+- **Mini apps for Telegram and MAX** — e.g. a marketplace (React + FastAPI + PostgreSQL)
+- **Search assistants** — bots and agents that collect, filter and act on search results
+- **Security checks** — tools for auditing systems and finding vulnerabilities
+- **Automation & optimization** across different domains — reporting, data processing, routine workflows
+- Neuro-commenting AI bot for Telegram growth, GPT + DALL·E bot, USDT TRC-20 wallet bot
 
 ### Languages and Tools
 
